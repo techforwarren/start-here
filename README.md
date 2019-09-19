@@ -28,6 +28,7 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 
 - [Microsite Generator](https://github.com/techforwarren/idea-board/issues/3) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 - [Policy Board](https://github.com/techforwarren/idea-board/issues/4)
+- [Volunteer Management CRM](https://github.com/techforwarren/start-here/issues/12)
 
 
 ## Completed Projects
