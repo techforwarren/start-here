@@ -5,7 +5,7 @@ Welcome! This GitHub organization is run by a volunteer group of technologists w
 
 ## How to Contribute
 
-If you are looking for a place to start, **take a look below at our list of active projects**, which are in various states of development. Whatever your skillset, there are many ways to contribute. Some of our current needs include: responding to developer requests for help in implementing specific features, testing and debugging prototypes, suggesting/providing UX enhancements (like improved accessibility), and supporting team efforts as a project maintainer.
+If you are looking for a place to start, **take a look below at our list of active projects**, which are in various states of development. Whatever your skillset, there are many ways to contribute. Some of our current needs include: responding to developer requests for help in implementing specific features, testing and debugging prototypes, suggesting/providing UX enhancements (like improved accessibility), and supporting team efforts as a project maintainer. Take a look at the issues in project repos to where help is needed on specific projects.
 
 New project ideas will be fielded by this organization's maintainers and passed along to others in the volunteer community for feedback and consideration. To be actively supported by the volunteer community, a project must (at minimum) establish a clear goal, identify some relevant tools and frameworks, and demonstrate commitment by an individual or team to see the project through.
 
