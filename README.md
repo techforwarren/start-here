@@ -24,7 +24,7 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 - [Event Map](https://github.com/techforwarren/eventmap) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 
 
-### In Formation - input needed
+### In Formation
 - [Digital Assistant Skills - "Tell me about Warren's plan for ..."](https://github.com/techforwarren/start-here/issues/13) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 - [Microsite Generator](https://github.com/techforwarren/idea-board/issues/3) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 - Volunteer Management CRM
