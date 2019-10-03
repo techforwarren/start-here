@@ -32,7 +32,7 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 
 ## Completed Projects
 
-- [Tech For Warren logo/icon](https://github.com/techforwarren/design-assets/tree/master/icon)
+- [Tech For Warren logo/icon](https://github.com/techforwarren/design-assets/tree/master/group-logo)
 
 
 ## Code of Conduct
