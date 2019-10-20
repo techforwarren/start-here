@@ -17,15 +17,16 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 ### In Production - with ongoing support
 
 - [Warren Plan Bot](https://github.com/techforwarren/warren-plan-bot)
-
-
-### In Development - prototyping and testing
-
 - [Event Map](https://github.com/techforwarren/eventmap) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 
 
-### In Formation
+### In Development - prototyping and testing
 - [Digital Assistant Skills - "Tell me about Warren's plan for ..."](https://github.com/techforwarren/start-here/issues/13) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
+
+
+### In Formation
+- [Voter Info Project](https://github.com/techforwarren/start-here/issues/14)
+- [Pledge to Vote Game](https://github.com/techforwarren/start-here/issues/15)
 - [Microsite Generator](https://github.com/techforwarren/idea-board/issues/3) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 - Volunteer Management CRM
 
