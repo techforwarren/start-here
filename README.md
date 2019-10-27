@@ -2,6 +2,9 @@
 
 Welcome! This GitHub organization is run by a volunteer group of technologists who are mobilizing their skills to help Elizabeth Warren clinch the nomination and win in 2020. Our mission is to build tools, apps, websites, infrastructure, and any technologies that will engage grassroots supporters and empower our movement.
 
+## How to Join
+
+Our group is organized through the [All in for Warren](https://elizabethwarren.com/all-in-for-warren/) digital community. [Applying with this link](https://community.elizabethwarren.com/registrations/groups/33907) will initiate the onboarding process and notify moderators of your specific interest in joining the (Let's Build) Tech for Warren group. Note that there are many other community groups you can follow based on geography, identity, and interest, and you can sign up for as many as you like.
 
 ## How to Contribute
 
