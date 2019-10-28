@@ -6,6 +6,10 @@ Welcome! This GitHub organization is run by a volunteer group of technologists w
 
 Our group is organized through the [All in for Warren](https://elizabethwarren.com/all-in-for-warren/) digital community. [Applying with this link](https://community.elizabethwarren.com/registrations/groups/33907) will initiate the onboarding process and notify moderators of your specific interest in joining the (Let's Build) Tech for Warren group. Note that there are many other community groups you can follow based on geography, identity, and interest, and you can sign up for as many as you like.
 
+## How to Promote
+
+As our digital projects turn into shareable products, we could use your help in making them visible to Warren supporters and potential Democratic Primary voters. We encourage you to share public-facing links to projects that are "in production" with your own social networks. If you are active on other All-In groups, post there. If you are active on social media, share with your followers. If you organize locally, make your fellow volunteers aware of tools and content we're creating — and come back to us with their suggestions and use cases! **A project you can promote right now is the [Event Map](https://techforwarren.github.io/eventmap/).**
+
 ## How to Contribute
 
 If you are looking for a place to start, **take a look below at our list of active projects**, which are in various states of development. Whatever your skillset, there are many ways to contribute. Some of our current needs include: responding to developer requests for help in implementing specific features, testing and debugging prototypes, suggesting/providing UX enhancements (like improved accessibility), and supporting team efforts as a project maintainer. Take a look at the issues in project repos to see where help is needed on specific projects.
@@ -19,8 +23,8 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 
 ### In Production - with ongoing support
 
-- [Warren Plan Bot](https://github.com/techforwarren/warren-plan-bot)
-- [Event Map](https://github.com/techforwarren/eventmap) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
+- Warren Plan Bot: [public link](https://www.reddit.com/r/ElizabethWarren/comments/czfgi4/hi_im_the_warrenplanbot/), [source code](https://github.com/techforwarren/warren-plan-bot)
+- Event Map: [public link](https://techforwarren.github.io/eventmap/), [source code](https://github.com/techforwarren/eventmap) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 
 
 ### In Development - prototyping and testing
