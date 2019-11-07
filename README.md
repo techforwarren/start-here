@@ -33,6 +33,7 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 
 
 ### In Formation
+- Two-Cent Tax visual explainer
 - [Voter Info Project](https://github.com/techforwarren/start-here/issues/14)
 - [Pledge to Vote Game](https://github.com/techforwarren/start-here/issues/15)
 - [UI Components Library](https://github.com/techforwarren/ui-components)
