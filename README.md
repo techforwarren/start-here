@@ -34,8 +34,7 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 
 
 ### In Formation
-- Voter Info Project: [GitHub issue](https://github.com/techforwarren/start-here/issues/14)
-- Pledge to Vote Game: [GitHub issue](https://github.com/techforwarren/start-here/issues/15)
+- Voter Info Project: [Slack channel](http://bit.ly/36VjCNl)
 - Volunteer Management CRM: [Slack channel](http://bit.ly/2NWAsTz)
 
 
