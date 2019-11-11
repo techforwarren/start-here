@@ -12,9 +12,9 @@ As our digital projects turn into shareable products, we could use your help in 
 
 ## How to Contribute
 
-If you are looking for a place to start, **take a look below at our list of active projects**, which are in various states of development. Whatever your skillset, there are many ways to contribute. Some of our current needs include: responding to developer requests for help in implementing specific features, testing and debugging prototypes, suggesting/providing UX enhancements (like improved accessibility), and supporting team efforts as a project maintainer. Take a look at the issues in project repos to see where help is needed on specific projects.
+If you are looking for a place to start, **take a look below at our list of active projects**, which are in various states of development. Whatever your skillset, there are many ways to contribute. Some of our current needs include: responding to developer requests for help in implementing specific features, testing and debugging prototypes, suggesting/providing UX enhancements (like improved accessibility), and supporting team efforts as a project maintainer. Take a look at the issues in project repos and discussion threads on project Slack channels to see where help is needed on specific projects. (*Please note that [registering with the All-In Community](https://community.elizabethwarren.com/registrations/groups/33907) is a prerequisite to joining our tech volunteer Slack workspace.*)
 
-New project ideas will be fielded by this organization's maintainers and passed along to others in the volunteer community for feedback and consideration. To be actively supported by the volunteer community, a project must (at minimum) establish a clear goal, identify some relevant tools and frameworks, and demonstrate commitment by an individual or team to see the project through.
+Another way to get started is to jump onto one of our topic channels on Slack to see what other folks are talking about and propose new project ideas. Currently, we have channels for [#data](http://bit.ly/2O0RAr8) and [#front-end](http://bit.ly/2CxKFAw). New project ideas will be fielded by this organization's maintainers and passed along to others in the volunteer community for feedback and consideration. To be actively supported by the volunteer community, a project must (at minimum) establish a clear goal, identify some relevant tools and frameworks, and demonstrate commitment by an individual or team to see the project through.
 
 Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 
@@ -24,21 +24,19 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 ### In Production - with ongoing support
 
 - Warren Plan Bot: [public link](https://www.reddit.com/r/ElizabethWarren/comments/czfgi4/hi_im_the_warrenplanbot/), [source code](https://github.com/techforwarren/warren-plan-bot)
-- Event Map: [public link](https://techforwarren.github.io/eventmap/), [source code](https://github.com/techforwarren/eventmap) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
+- Event Map: [public link](https://techforwarren.github.io/eventmap/), [source code](https://github.com/techforwarren/eventmap), [Slack channel](http://bit.ly/2pPYmbq) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 
 
 ### In Development - prototyping and testing
-- [Digital Assistant Skills - "Tell me about Warren's plan for ..."](https://github.com/techforwarren/start-here/issues/13) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
+- Two-Cent Tax project: [Slack channel](http://bit.ly/32yxU36)
+- Digital Assistant Skills - "Tell me about Warren's plan for ...": [Slack channel](http://bit.ly/36Qtlof) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 - WarrenPlans interactive site
 
 
 ### In Formation
-- Two-Cent Tax visual explainer
-- [Voter Info Project](https://github.com/techforwarren/start-here/issues/14)
-- [Pledge to Vote Game](https://github.com/techforwarren/start-here/issues/15)
-- [UI Components Library](https://github.com/techforwarren/ui-components)
-- [Microsite Generator](https://github.com/techforwarren/idea-board/issues/3) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
-- Volunteer Management CRM
+- Voter Info Project: [GitHub issue](https://github.com/techforwarren/start-here/issues/14)
+- Pledge to Vote Game: [GitHub issue](https://github.com/techforwarren/start-here/issues/15)
+- Volunteer Management CRM: [Slack channel](http://bit.ly/2NWAsTz)
 
 
 ## Completed Projects
