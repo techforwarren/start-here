@@ -23,7 +23,7 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 
 ### In Production - with ongoing support
 
-- Warren Plan Bot: [public link](http://bit.ly/planbotpubliclink), [source code](http://bit.ly/planbotrepo) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-232444)
+- Warren Plan Bot: [public link](http://bit.ly/planbotpubliclink), [source code](http://bit.ly/planbotrepo), [Slack channel](http://bit.ly/t4wplanbotchannel) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-232444)
 - Event Map: [public link](http://bit.ly/t4weventmap), [source code](http://bit.ly/t4weventmaprepo), [Slack channel](http://bit.ly/t4weventmapchannel) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-B7E4CF)
 
 
