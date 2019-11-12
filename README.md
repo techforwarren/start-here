@@ -23,19 +23,19 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 
 ### In Production - with ongoing support
 
-- Warren Plan Bot: [public link](http://bit.ly/planbotpubliclink), [source code](http://bit.ly/planbotrepo)
+- Warren Plan Bot: [public link](http://bit.ly/planbotpubliclink), [source code](http://bit.ly/planbotrepo) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-blueviolet)
 - Event Map: [public link](http://bit.ly/t4weventmap), [source code](http://bit.ly/t4weventmaprepo), [Slack channel](http://bit.ly/t4weventmapchannel) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 
 
 ### In Development - prototyping and testing
-- Two-Cent Tax project: [Slack channel](http://bit.ly/t4wtwocentprojectchannel)
-- Digital Assistant Skills - "Tell me about Warren's plan for ...": [Slack channel](http://bit.ly/t4wdigitalasstskillschannel) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
-- WarrenPlans interactive site
+- Two-Cent Tax project: [Slack channel](http://bit.ly/t4wtwocentprojectchannel) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-blueviolet)
+- Digital Assistant Skills - "Tell me about Warren's plan for ...": [Slack channel](http://bit.ly/t4wdigitalasstskillschannel) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-blueviolet)
+- WarrenPlans interactive site ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-blueviolet)
 
 
 ### In Formation
-- Voter Info Project: [Slack channel](http://bit.ly/t4wvoterinfochannel)
-- Volunteer Management CRM: [Slack channel](http://bit.ly/t4wvolunteercrmchannel)
+- Voter Info Project: [Slack channel](http://bit.ly/t4wvoterinfochannel) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-blueviolet)
+- Volunteer Management CRM: [Slack channel](http://bit.ly/t4wvolunteercrmchannel) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-blueviolet)
 
 
 ## Completed Projects
