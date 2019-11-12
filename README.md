@@ -29,7 +29,7 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 
 ### In Development - prototyping and testing
 - Two-Cent Tax project: [Slack channel](http://bit.ly/t4wtwocentprojectchannel) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-blueviolet)
-- Digital Assistant Skills - "Tell me about Warren's plan for ...": [Slack channel](http://bit.ly/t4wdigitalasstskillschannel) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-blueviolet)
+- Digital Assistant Skills - "Tell me about Warren's plan for ...": [Slack channel](http://bit.ly/t4wdigitalasstskillschannel) ![campaign-initiated](https://img.shields.io/badge/-campaign--initiated-brightgreen)
 - WarrenPlans interactive site ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-blueviolet)
 
 
