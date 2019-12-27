@@ -35,7 +35,6 @@ Contributors are expected to adhere to our [code of conduct](#code-of-conduct).
 
 ### In Formation
 - Voter Info Project: [Slack channel](http://bit.ly/t4wvoterinfochannel) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-232444)
-- Volunteer Management CRM: [Slack channel](http://bit.ly/t4wvolunteercrmchannel) ![volunteer-initiated](https://img.shields.io/badge/-volunteer--initiated-232444)
 
 
 ## Completed Projects
